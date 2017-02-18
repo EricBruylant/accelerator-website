@@ -1,0 +1,4 @@
+accelerator@acceleratorproject.org:/home/accelerator
+--delete
+--include=/public_html
+--exclude=/*

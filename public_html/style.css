@@ -1,0 +1,155 @@
+@charset "UTF-8";
+
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+    text-decoration: none;
+    color: inherit;
+    font-size: inherit;
+    font-family: "Lato", sans-serif;
+}
+
+html {
+    color: #000;
+    font-size: 18px;
+}
+
+html, body {
+    height: 100%;
+}
+
+a, a * {
+    color: #004;
+    text-decoration: underline;
+}
+
+a:hover {
+    opacity: 0.6;
+}
+
+i {
+    color: #040;
+}
+
+ul {
+    list-style: none;
+}
+
+pre {
+    white-space: pre-wrap;
+}
+
+sup, sup * {
+    font-size: 9px;
+}
+
+input[type="text"], input[type="password"], input[type="select"] {
+    border: 1px solid #444;
+    background: #fff;
+    padding: 2px 5px;
+    border-radius: 4px;
+    -moz-border-radius: 4px;
+}
+
+input[type="submit"] {
+    border: 1px solid #444;
+    background: #ddd;
+    padding: 2px 15px;
+    border-radius: 4px;
+    -moz-border-radius: 4px;
+}
+
+input[type="submit"]:hover {
+    background: #888;
+}
+
+body {
+    background: #fff;
+}
+
+div.header {
+    position: relative;
+    display: table;
+    width: 100%;
+    min-height: 100%;
+    opacity: 0.65;
+    background-image: url("bg.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #fff;
+}
+
+div.header a {
+    color: #aaf;
+}
+
+div.header div.center {
+    display: table-cell;
+    vertical-align: middle;
+    padding: 20px 0 20px 0;
+    text-align: center;
+}
+
+div.header div.getinvolved {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    text-align: right;
+    margin: 20px;
+    padding: 20px;
+    background: #444;
+}
+
+h1 {
+    display: table;
+    margin: 0 auto;
+    padding: 20px;
+    background: #000;
+    font-size: 40px;
+    letter-spacing: 10px;
+    text-transform: uppercase;
+}
+
+h2, h3 {
+    letter-spacing: 3px;
+    text-transform: uppercase;
+}
+
+
+div.header div.center p {
+    padding-top: 30px;
+    font-size: 22px;
+    max-width: 30em;
+    margin: 0 auto;
+    letter-spacing: 2px;
+    text-shadow: 5px 0 10px #000, 0 5px 10px #000, -5px 0 10px #000, 0 -5px 10px #000,
+        5px 5px 10px #000, 5px -5px 10px #000, -5px 5px 10px #000, -5px -5px 10px #000;
+}
+
+div.content {
+    max-width: 40em;
+    margin: 0 auto;
+    padding: 20px 20px 60px 20px;
+}
+
+div.content h2 {
+    color: #666;
+    text-align: center;
+    margin: 50px 20px 45px 20px;
+    font-size: 20px;
+}
+
+div.content h3 {
+    margin: 25px 0 20px 0;
+    text-align: justify;
+}
+
+div.content p {
+    margin: 15px 0;
+    text-align: justify;
+    line-height: 170%;
+}
+
