@@ -9,7 +9,7 @@ title: The Accelerator Project
 
 ## Get Involved
 
-take our <a href="https://goo.gl/pc4wAT">short survey</a>
+take our [short survey](https://goo.gl/pc4wAT)
 
 </div>
 
@@ -17,7 +17,7 @@ take our <a href="https://goo.gl/pc4wAT">short survey</a>
 
 # The Accelerator Project
 
-being so awesome that anyone who finds out about us will immediately give us all of their money
+an awesome low-cost place for people to grow into facing the world's largest challenges
 
 </div>
 
@@ -27,28 +27,82 @@ being so awesome that anyone who finds out about us will immediately give us all
 
 ## Project Q&A
 
-### What is going on here?
+### What is this all about?
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+A large number of people recognize the importance of,
+and dedicate their efforts to moving the needle
+on humanity's largest problems.
+Unfortunately, very few of them have life circumstances
+that allow them to really fullfill that potential.
+Most are forced into painful tradeoffs, in which preventing
+their day-to-day reality from falling apart often takes
+precedence over saving the world.
 
-### Another question?
+Existing communities that could support and accomodate
+such people have reliably formed around major cities,
+in which the high cost of living makes the problem even worse.
+Those who choose to live outside of the major hubs have more
+time and flexibility,
+but lack intellectual peers and social support
+-- which turn out to be critical for success.
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.
+The Accelerator Project aims to provide a low-cost environment,
+in which high-potential individuals can become more stable,
+productive, networked, and more capable of sustained
+and directed progress towards improving the world.
+A part of it is simply about solving the coordination problem
+-- it makes more sense for a group of 50 people to live
+in a low cost country than for a single person to do the same.
+Another part is about building and optimizing a culture,
+in which effectively taking action to solve important problems
+is as obvious and natural as breathing.
 
-Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur.
+### What, exactly, will you offer?
 
-### What is going on here?
+A 3-6 month stay in the Accelerator,
+during which residents can focus exclusively on developing
+the foundations to make progress on the things they think
+are most important,
+while doing object level work in order to have
+feedback loops and build good habits.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Removal of many of life's trivial inconveniences.
+Social, emotional, and self-improvement support networks.
+Giving mentorship in the form of
+[legitimate peripheral participation](https://en.wikipedia.org/wiki/Legitimate_peripheral_participation)
+in a
+[community of practice](https://en.wikipedia.org/wiki/Community_of_practice).
+Contact with others on the same path,
+and long-term individual mentorship.
 
-### Another question?
+### How to get involved?
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.
+If you'd like to help push the project forward, please take the
+[survey](https://goo.gl/pc4wAT) and you’ll be added to the Facebook chat.
+Until May 2017, the project is in freeform exploration/discussion mode.
+Our current target for move-in early 2018 (still subject to change).
 
-Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur.
+There will be an initial week-long meeting of the founding team
+in the United Kingdom from May 20th to 27th
+(the recruitment process will open soon).
 
-## MORE QUESTIONS?
+### Why do you think the project will succeed?
 
-Ask us at: <a href="mailto:questions@acceleratorproject.org">questions@acceleratorproject.org</a>
+We already have significant funding (mostly from Eric and other people
+interested in being part of the founding team), and we are learning
+from the best
+-- drawing on our connections to the [LessWrong](http://lesswrong.com/)
+community, the
+[Center for Applied Rationality](http://rationality.org/) and others.
+At the same time, we are careful to integrate people with a wide
+spectrum of backgrounds and expertise,
+and also keep in mind the need for everyone to be healthy,
+happy and complete human beings
+-- which (we hope) will let us avoid most of the common pitfalls.
+
+## More questions?
+
+Ask us at:
+[questions@acceleratorproject.org](mailto:questions@acceleratorproject.org)
 
 </div>
