@@ -6,10 +6,10 @@ HTML = $(patsubst %.md, public_html/%.html, $(MKD))
 
 all: $(HTML)
 
-public_html/%.html: %.md template.html
+public_html/%.html: %.md %.html
 	@echo pandoc $< -o $@
 	@pandoc \
 		--smart \
 		--standalone \
-		--template=template.html \
+		--template=$(word 2,$^) \
 		$< -o $@

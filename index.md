@@ -1,30 +1,4 @@
 
----
-title: The Accelerator Project
----
-
-<div class="header">
-
-<div class="getinvolved">
-
-## Get Involved
-
-take our [short survey](https://goo.gl/pc4wAT)
-
-</div>
-
-<div class="center">
-
-# The Accelerator Project
-
-an awesome low-cost place for people to grow into facing the world's largest challenges
-
-</div>
-
-</div>
-
-<div class="content">
-
 ## Project Q&A
 
 ### What is this all about?
@@ -92,11 +66,12 @@ We already have significant funding (mostly from Eric and other people
 interested in being part of the founding team), and we are learning
 from the best
 -- drawing on our connections to the [LessWrong](http://lesswrong.com/)
-community, the
+community, instructors and alumni of the
 [Center for Applied Rationality](http://rationality.org/) and others.
-At the same time, we are careful to integrate people with a wide
-spectrum of backgrounds and expertise,
-and also keep in mind the need for everyone to be healthy,
+
+At the same time, we are careful to integrate valuable individuals
+with a variety of backgrounds and areas of expertise.
+We understand the need for everyone to be healthy,
 happy and complete human beings
 -- which (we hope) will let us avoid most of the common pitfalls.
 
@@ -105,4 +80,3 @@ happy and complete human beings
 Ask us at:
 [questions@acceleratorproject.org](mailto:questions@acceleratorproject.org)
 
-</div>
