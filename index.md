@@ -37,7 +37,7 @@ A 3-6 month stay in the Accelerator,
 during which residents can focus exclusively on developing
 the foundations to make progress on the things they think
 are most important,
-while doing object level work in order to keep 
+while doing object level work in order to keep
 feedback loops going and flag issues as they build good habits.
 
 Removal of many of life's trivial inconveniences.
@@ -49,44 +49,44 @@ in a
 Contact with others on the same path,
 and long-term individual mentorship.
 
-### HOW WILL THIS BE FUNDED?
+### How will this be funded?
 
-Since we want to heavily modify the location (optimized 
+Since we want to heavily modify the location (optimized
 living environments!) and drive long term marginal costs
-down, we intend to buy a location with room to expand. This 
-means our activation energy is high, but several members of 
-the founding team are putting forward significant amounts of 
-money. Additionally the project has the interest of several 
+down, we intend to buy a location with room to expand. This
+means our activation energy is high, but several members of
+the founding team are putting forward significant amounts of
+money. Additionally the project has the interest of several
 notable philanthropists, and will attempt to raise money via crowdfunding.
 
 Donations will be exchanged for rent tokens, which will be used
-to cover the rent of people living at the accelerator (details 
+to cover the rent of people living at the accelerator (details
 to be decided,will need rate-limiting and ) and play a role in governance.
 
-Longer term sources of income include residents doing remote 
-work (e.g. coding), and people flowing through the accelerator 
+Longer term sources of income include residents doing remote
+work (e.g. coding), and people flowing through the accelerator
 self-funding and receiving scholarships once we are proven valuable.
 
-### DO YOU REALLY THINK THIS WILL WORK?
-
-We are aware of the scale of the challenge implied 
-by trying to bring a diverse and intense group of people
-together for many months and have things go well. In order
-to succeed we will need both a carefully thought out plan 
-informed by other groups, and an understanding that as a 
-group we are steering in every interaction. Despite this 
-challenge, we have hope because the community this project 
-is rooted in has a common goal, an uncommon focus on 
-awareness of self and communication, and a demonstrated 
-ability to intentionally develop culture with specific 
-aims (e.g. truth-seeking discussion norms). We want to 
-turn this creative potential, and the background data 
-from every other intentional community project we can 
-find, to the task of developing ways of interacting 
-which are conducive to growing healthy, happy, complete, 
-and awesome human beings.
+### Do you really think this will work?
 
 tl;dr: Maybe, and it seems high value to try.
+
+We are aware of the scale of the challenge implied
+by trying to bring a diverse and intense group of people
+together for many months and have things go well. In order
+to succeed we will need both a carefully thought out plan
+informed by other groups, and an understanding that as a
+group we are steering in every interaction. Despite this
+challenge, we have hope because the community this project
+is rooted in has a common goal, an uncommon focus on
+awareness of self and communication, and a demonstrated
+ability to intentionally develop culture with specific
+aims (e.g. truth-seeking discussion norms). We want to
+turn this creative potential, and the background data
+from every other intentional community project we can
+find, to the task of developing ways of interacting
+which are conducive to growing healthy, happy, complete,
+and awesome human beings.
 
 ### How can I get involved?
 
@@ -95,8 +95,8 @@ If you'd like to help push the project forward, please take the
 Until May 2017, the project is in freeform exploration/discussion mode.
 Our current target for move-in early 2018 (still subject to change).
 
-There will be an initial week-long meeting for people interested 
-in joining the team in the United Kingdom from May 20th to 27th 
+There will be an initial week-long meeting for people interested
+in joining the team in the United Kingdom from May 20th to 27th
 (applications will open soon).
 
 ## More questions?
