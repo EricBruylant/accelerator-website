@@ -7,18 +7,18 @@ A large number of people recognize the importance of,
 and dedicate their efforts to moving the needle
 on humanity's largest problems.
 Unfortunately, very few of them have life circumstances
-that allow them to really fullfill that potential.
+that allow them to really fulfill that potential.
 Most are forced into painful tradeoffs, in which preventing
-their day-to-day reality from falling apart often takes
+their day-to-day reality from falling apart takes
 precedence over saving the world.
 
-Existing communities that could support and accomodate
+Existing communities that could support and accommodate
 such people have reliably formed around major cities,
 in which the high cost of living makes the problem even worse.
 Those who choose to live outside of the major hubs have more
 time and flexibility,
 but lack intellectual peers and social support
--- which turn out to be critical for success.
+-- which are critical for growth and success.
 
 The Accelerator Project aims to provide a low-cost environment,
 in which high-potential individuals can become more stable,
@@ -27,7 +27,7 @@ and directed progress towards improving the world.
 A part of it is simply about solving the coordination problem
 -- it makes more sense for a group of 50 people to live
 in a low cost country than for a single person to do the same.
-Another part is about building and optimizing a culture,
+Another part is about developing an intentional culture,
 in which effectively taking action to solve important problems
 is as obvious and natural as breathing.
 
@@ -37,8 +37,8 @@ A 3-6 month stay in the Accelerator,
 during which residents can focus exclusively on developing
 the foundations to make progress on the things they think
 are most important,
-while doing object level work in order to have
-feedback loops and build good habits.
+while doing object level work in order to keep 
+feedback loops going and flag issues as they build good habits.
 
 Removal of many of life's trivial inconveniences.
 Social, emotional, and self-improvement support networks.
@@ -49,31 +49,55 @@ in a
 Contact with others on the same path,
 and long-term individual mentorship.
 
-### How to get involved?
+### HOW WILL THIS BE FUNDED?
+
+Since we want to heavily modify the location (optimized 
+living environments!) and drive long term marginal costs
+down, we intend to buy a location with room to expand. This 
+means our activation energy is high, but several members of 
+the founding team are putting forward significant amounts of 
+money. Additionally the project has the interest of several 
+notable philanthropists, and will attempt to raise money via crowdfunding.
+
+Donations will be exchanged for rent tokens, which will be used
+to cover the rent of people living at the accelerator (details 
+to be decided,will need rate-limiting and ) and play a role in governance.
+
+Longer term sources of income include residents doing remote 
+work (e.g. coding), and people flowing through the accelerator 
+self-funding and receiving scholarships once we are proven valuable.
+
+### DO YOU REALLY THINK THIS WILL WORK?
+
+We are aware of the scale of the challenge implied 
+by trying to bring a diverse and intense group of people
+together for many months and have things go well. In order
+to succeed we will need both a carefully thought out plan 
+informed by other groups, and an understanding that as a 
+group we are steering in every interaction. Despite this 
+challenge, we have hope because the community this project 
+is rooted in has a common goal, an uncommon focus on 
+awareness of self and communication, and a demonstrated 
+ability to intentionally develop culture with specific 
+aims (e.g. truth-seeking discussion norms). We want to 
+turn this creative potential, and the background data 
+from every other intentional community project we can 
+find, to the task of developing ways of interacting 
+which are conducive to growing healthy, happy, complete, 
+and awesome human beings.
+
+tl;dr: Maybe, and it seems high value to try.
+
+### How can I get involved?
 
 If you'd like to help push the project forward, please take the
 [survey](https://goo.gl/pc4wAT) and you’ll be added to the Facebook chat.
 Until May 2017, the project is in freeform exploration/discussion mode.
 Our current target for move-in early 2018 (still subject to change).
 
-There will be an initial week-long meeting of the founding team
-in the United Kingdom from May 20th to 27th
-(the recruitment process will open soon).
-
-### Why do you think the project will succeed?
-
-We already have significant funding (mostly from Eric and other people
-interested in being part of the founding team), and we are learning
-from the best
--- drawing on our connections to the [LessWrong](http://lesswrong.com/)
-community, instructors and alumni of the
-[Center for Applied Rationality](http://rationality.org/) and others.
-
-At the same time, we are careful to integrate valuable individuals
-with a variety of backgrounds and areas of expertise.
-We understand the need for everyone to be healthy,
-happy and complete human beings
--- which (we hope) will let us avoid most of the common pitfalls.
+There will be an initial week-long meeting for people interested 
+in joining the team in the United Kingdom from May 20th to 27th 
+(applications will open soon).
 
 ## More questions?
 
