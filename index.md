@@ -19,21 +19,24 @@ Removal of many of life's trivial inconveniences. Social, emotional, and self-im
 
 Since we want to heavily modify the location (optimized living environments!) and drive long term marginal costs down, we intend to buy a location with room to expand. This means our activation energy is high, but several members of the founding team are putting forward significant amounts of money. Additionally the project has the interest of several notable philanthropists, and will attempt to raise money via crowdfunding.
 
-Donations will be exchanged for rent tokens, which will be used to cover the rent of people living at the accelerator (details to be decided,will need rate-limiting and ) and play a role in governance.
+Donations will be exchanged for rent tokens, which will be used to cover the rent of people living at the accelerator (within limits of our capacity and application process). We expect to pair individuals and organisations with large donors, who might be giving out their rent tokens as a form of patronage.
 
 Longer term sources of income include residents doing remote work (e.g. coding), and people flowing through the accelerator self-funding and receiving scholarships once we are proven valuable.
 
-### Where will this be?
+### What's the location?
 
-The main criteria are cost (building, ongoing cost of living, flights from EU / US), safety (geopolitical, local, healthcare), convenient (visas, bureaucracy, languages), and climate. We've done basic research into [lots of countries](https://docs.google.com/spreadsheets/d/1ZHN2WEl97_lV053jvbn1Nyb_KpaK9q8mZ2BKkKxPupI/edit?usp=sharing), and looked more closely at some of the more promising ones. The plan is to narrow down to a shortlist by May and pick a country shortly after.
+We are working on it. The main criteria are cost (building, ongoing cost of living, flights from EU / US), safety (geopolitical, local, healthcare), convenient (visas, bureaucracy, languages), and climate. We've done basic research into [lots of countries](https://docs.google.com/spreadsheets/d/1ZHN2WEl97_lV053jvbn1Nyb_KpaK9q8mZ2BKkKxPupI/edit?usp=sharing), and looked more closely at some of the more promising ones. The plan is to narrow down to a shortlist by May and pick a country shortly after.
 
-### Where can I find out more about the project?
+### Where can I learn more about the project?
 
-The [Facebook group](https://www.facebook.com/groups/664817953593844/) contains a good deal of discussion.
+The [Facebook group](https://www.facebook.com/groups/664817953593844/) contains a good deal of discussion, and is a good place to get quick answers to your questions.
 
 [The missing step between Zero and Hero](https://arbital.com/p/missing_step_between_Zero_and_Hero/) - Why this seems high-impact: EA has a surplus of high-potential people who want to help but don't have a good path to doing so.
+
 [A Whirlwind Tour](https://arbital.com/p/a_whirlwind_tour/) - A tour of the accelerator set a year in.
+
 [Path to Acceleration](https://arbital.com/p/accelerator_plan/) - A sketch of how to get from here to there.
+
 [Arbital pages](https://arbital.com/p/accelerator_project/) - More pages on Arbital.
 
 ### Do you really think this will work?
@@ -44,9 +47,13 @@ We are aware of the scale of the challenge implied by trying to bring a diverse 
 
 ### How can I get involved?
 
-If you'd like to help push the project forward, please take the [survey](https://goo.gl/pc4wAT) and you’ll be added to the Facebook chat. Until May 2017, the project is in freeform exploration/discussion mode. Our current target for initial move-in is early 2018 (still subject to change).
+If you'd like to help push the project forward, please take the [survey](https://goo.gl/pc4wAT) and you’ll be added to the Facebook chat. Until May 2017, the project is in freeform exploration/discussion mode. Our current target for initial move-in is early 2018 (still subject to change). There will be an initial week-long meeting for people interested in joining the team in the United Kingdom (from June 17th to 24th).
 
-There will be an initial week-long meeting for people interested in joining the team in the United Kingdom from May 20th to 27th (applications will open soon).
+### I seriously want to help. What can I do now?
+
+There is a lot of work to do, and we are always looking for people who are both competent and self-directed. One of the best ways to approach us is to simply step in and start helping. We won't tell you what to do -- figuring that out is an important part of the work, and we don't believe in micromanaging.
+
+You might want to consider [applying for the meeting in June](https://goo.gl/forms/W2pPCvdm9wPFoNvq2), which will be a perfect opportunity to get to know other people working on the project, and figure out how you fit in.
 
 ## More questions?
 
