@@ -3,11 +3,11 @@
 
 ### What is this all about?
 
-A large number of people recognize the importance of, and dedicate their efforts to moving the needle on humanity's largest problems. Unfortunately, very few of them have life circumstances that allow them to really fulfill that potential. Most are forced into painful tradeoffs, in which preventing their day-to-day reality from falling apart takes precedence over saving the world.
+A large number of people recognize the importance of, and dedicate their efforts to moving the needle on humanity's largest problems. Unfortunately, very few of them have life circumstances that allow them to really fulfill their potential. Many are forced into painful tradeoffs, in which keeping their day-to-day life running takes precedence over their broader goals.
 
-Existing communities that could support and accommodate such people have reliably formed around major cities, in which the high cost of living makes the problem even worse. Those who choose to live outside of the major hubs have more time and flexibility, but lack intellectual peers and social support -- which are critical for growth and success.
+Compounding this, [communities of practice](http://wenger-trayner.com/introduction-to-communities-of-practice/) that could support and mentor such people have tended to form in cities with high living costs like San Fransisco and Oxford. Those who choose to live outside of the major hubs may have more flexibility and personal runway, but struggle to find intellectual peers and social support -- which are critical for growth and success.
 
-The Accelerator Project aims to provide a low-cost environment, in which high-potential individuals can become more stable, productive, networked, and more capable of sustained and directed progress towards improving the world. Part of the way this project help is simply by solving the coordination problem -- it makes more sense for a group of 50 people to live in a low cost country than for a single person to do the same. Another part is about developing an intentional culture, in which effectively taking action to solve important problems is the supported and endorsed by peers and mentors.
+The Accelerator Project aims to provide a low-cost environment, in which high-potential individuals can become more stable, productive, networked, and more capable of sustained and directed progress towards improving the world. Part of this project's aim is simply to address the coordination problem -- it makes more sense for a group of 50 people to live in a low cost country than for a single person to do the same. Another aim is to develop an intentional and evolving culture, in which effectively taking action to tackle important problems is the supported and endorsed by peers and mentors.
 
 ### What, exactly, will you offer?
 
@@ -17,15 +17,15 @@ Removal of many of life's trivial inconveniences. Social, emotional, and self-im
 
 ### How will this be funded?
 
-Since we want to heavily modify the location (optimized living environments!) and drive long term marginal costs down, we intend to buy a location with room to expand. This means our activation energy is high, but several members of the founding team are putting forward significant amounts of money. Additionally the project has the interest of several notable philanthropists, and will attempt to raise money via crowdfunding.
+Since we want to heavily modify the location (optimized living environments!) and drive long term marginal costs down, we intend to buy a location with room to expand. This means our activation energy is high, but several members of the founding team are putting forward significant amounts of money. Additionally the project has the interest of several notable philanthropists, and we will attempt to raise money via crowdfunding.
 
-Donations will be exchanged for rent tokens, which will be used to cover the rent of people living at the accelerator (within limits of our capacity and application process). We expect to pair individuals and organisations with large donors, who might be giving out their rent tokens as a form of patronage.
+Donations will be exchanged for rent tokens, which can be used to pay for the rent of people living at the accelerator (donations should not be considered an investment, exchange will be rate-limited by capacity, food/utility won't be coverable by tokens, and secondary markets for tokens may be not nonexistent or very shallow). We expect to pair individuals and organisations with large donors, who might be giving out their rent tokens as a form of patronage.
 
-Longer term sources of income include residents doing remote work (e.g. coding), and people flowing through the accelerator self-funding and receiving scholarships once we are proven valuable.
+Longer term sources of income include residents doing remote work (e.g. coding), and people flowing through the accelerator self-funding or receiving scholarships, once we are proven valuable.
 
 ### What's the location?
 
-We are working on it. The main criteria are cost (building, ongoing cost of living, flights from EU / US), safety (geopolitical, local, healthcare), convenient (visas, bureaucracy, languages), and climate. We've done basic research into [lots of countries](https://docs.google.com/spreadsheets/d/1ZHN2WEl97_lV053jvbn1Nyb_KpaK9q8mZ2BKkKxPupI/edit?usp=sharing), and looked more closely at some of the more promising ones. The plan is to narrow down to a shortlist by May and pick a country shortly after.
+We are working on it. The main criteria are cost (building, ongoing cost of living, flights from EU / US), safety (geopolitical, local, healthcare), convenient (visas, bureaucracy, languages), and climate. We've done basic research into [lots of countries](https://docs.google.com/spreadsheets/d/1ZHN2WEl97_lV053jvbn1Nyb_KpaK9q8mZ2BKkKxPupI/edit?usp=sharing), and looked more closely at some of the more promising ones. The plan is to narrow down to a shortlist by May and pick a country shortly after. Current top contenders include the Canary Islands and Ireland.
 
 ### Where can I learn more about the project?
 
@@ -47,14 +47,12 @@ We are aware of the scale of the challenge implied by trying to bring a diverse 
 
 ### How can I get involved?
 
-If you'd like to help push the project forward, please take the [survey](https://goo.gl/pc4wAT) and you’ll be added to the Facebook chat. Until May 2017, the project is in freeform exploration/discussion mode. Our current target for initial move-in is early 2018 (still subject to change). There will be an initial week-long meeting for people interested in joining the team in the United Kingdom (from June 17th to 24th).
+If you'd like to help push the project forward, please take the [survey](https://goo.gl/pc4wAT) and you’ll be added to the group chat. Until May 2017, the project is in freeform exploration/discussion mode. Our current target for initial move-in is early 2018. There will be a [week-long Accelerator meetup](https://docs.google.com/forms/d/e/1FAIpQLSdD87DP5SBdhf1a34Hi3P5t4HVLapy2idymDyJXZHu4aKH53w/viewform) in the United Kingdom (from June 17th to 24th) for people interested in joining the team.
 
 ### I seriously want to help. What can I do now?
 
-There is a lot of work to do, and we are always looking for people who are both competent and self-directed. One of the best ways to approach us is to simply step in and start helping. We won't tell you what to do -- figuring that out is an important part of the work, and we don't believe in micromanaging.
-
-You might want to consider [applying for the meeting in June](https://goo.gl/forms/W2pPCvdm9wPFoNvq2), which will be a perfect opportunity to get to know other people working on the project, and figure out how you fit in.
+There's lots of research to be done, ask in chat to see what's currently of interest. You could also [apply for the June UK meetup](https://goo.gl/forms/W2pPCvdm9wPFoNvq2), which will be a perfect opportunity to get to know other people working on the project, and figure out how you fit in.
 
 ## More questions?
 
-Ask us at: [questions@acceleratorproject.org](mailto:questions@acceleratorproject.org)
+Ask us at: [questions@acceleratorproject.org](mailto:questions@acceleratorproject.org) or in the chat
